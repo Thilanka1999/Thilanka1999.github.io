@@ -2,6 +2,82 @@ title: Thilanka Widanagamage
 # logo: https://avatars.githubusercontent.com/u/75206560?v=4
 description: A passionate software engineer specializing in AI, machine learning, and web development.
 show_download: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 # author: Thilanka Widanagamage
 # url: "https://thilanka.github.io" # Your website URL
+
+navbar:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects/
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+
+social:
+  github: https://github.com/Thilanka1999
+  linkedin: https://linkedin.com/in/thilanka-widanagame
+  email: mailto:thilankarajaka6@gmail.com
+
+
+footer:
+  copyright: "© 2024 Thilanka Widanagamage. All Rights Reserved."
+  powered_by: "Built with GitHub Pages and Jekyll."
+
+projects:
+  - title: Passport Login System
+    description: A user authentication system built with Node.js and Express.js.
+    link: /projects/passport-login-system/
+    image: /assets/img/passport-login.png
+
+  - title: Cold Email Generator
+    description: Streamlit app powered by Llama 3.1 for automated cold email generation.
+    link: /projects/cold-email-generator/
+    image: /assets/img/cold-email-generator.png
+
+
+
+theme:
+  color_scheme: dark
+  font: "Roboto, sans-serif"
+  header_background: "#222"
+  accent_color: "#6c63ff"
+
+
+
+seo:
+  keywords: "Thilanka Widanagamage, AI, Machine Learning, Web Development, Portfolio"
+  google_analytics: "UA-XXXXXXXXX-X" # Replace with your Google Analytics ID
+  description: "Personal portfolio showcasing projects and skills in AI and web development."
+
+
+favicon: /assets/img/favicon.ico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
